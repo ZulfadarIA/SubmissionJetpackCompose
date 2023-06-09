@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SubmissionJetpackCompose</string>
+    <string name="backButton">Back</string>
+    <string name="homeMenu">Home</string>
+    <string name="favoriteMenu">Favorite</string>
+    <string name="aboutMeMenu">About</string>
+    <string name="aboutMePage">About Me</string>
+    <string name="homePage">Home Page</string>
+    <string name="favoritePage">Favorite Page</string>
+    <string name="myName">ZUlfadar Indaka Alkaf</string>
+    <string name="myEmail">zulfadralkaf@gmail.com</string>
+    <string name="detailTitle">%s</string>
+    <string name="descText">%s</string>
+    <string name="addToFavorite">Add %s to favorite</string>
+    <string name="deleteFavorite">Delete %s from favorite</string>
+</resources>
